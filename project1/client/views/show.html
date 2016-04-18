@@ -1,0 +1,43 @@
+	<div  class="well"> 
+	<div ng-if = "shows">
+	<font color="red"><h3><b>{{ shows.name }}</b><h3></font>
+	<hr/>
+	<div ng-repeat= "category in shows.genres" style="float:left">
+	<b><p> | {{category}} |  </p></b>
+	</div>
+	<table class="table">
+	<tr class="success">
+	<td>
+	<img src="{{shows.image.medium }}"/>
+	</td>
+	<td>
+	<font color="blue"><p ng-bind-html="shows.summary | trustHTML"></p></font>
+	</td>
+	</tr>
+	</table>
+	<font color="red"><h2> Cast Members</h2></font>
+	<hr/>
+	<div ng-repeat= "cast in shows._embedded.cast" > 
+	<table>
+	<tr><td> 
+	<h3 ng-if= "cast.person.image.medium == null && cast.character.image.medium != null">
+	<img src={{cast.character.image.medium}}>
+	</h3>
+	<h3 ng-if= "cast.person.image.medium == null && cast.character.image.medium == null">
+	<img src="/images/ashu.jpg" height= "200px"  width="200px"/>
+	</h3>
+	<h3 ng-if= "cast.person.image.medium != null">
+	<img src={{cast.person.image.medium}} height= "200px"  width="200px"/>
+	</h3>
+	</td>
+	<td>
+	{{cast.person.name}} <b>as</b> {{cast.character.name}}
+	</td>
+	<td>
+	</td>
+	</tr>
+	</table>
+	</div>
+	</div>
+	</div>
+	

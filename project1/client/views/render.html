@@ -1,0 +1,27 @@
+	<div>
+	<h3 ng-if= "fact != null" > Search Result : </h3>
+	<div ng-repeat= "tv in fact" class="well"> 
+	
+	<form>
+	<font color="red"><h3><b>{{ tv.show.name }}</b><h3><font>
+	<table class="table">
+	<tr class="success">
+	<td>
+	<h3 ng-if= "tv.show.image.medium == null">
+	<img src="/images/ashu.jpg" height= "200px"  width="200px"/>
+	</h3>
+	<h3 ng-if= "tv.show.image.medium != null">
+	<img src="{{tv.show.image.medium }}"/>
+	</h3>
+	</td>
+	<td>
+	<font color="blue"><p ng-bind-html="tv.show.summary | trustHTML"></p></font>
+	</td>
+	</tr>
+	<tr>
+	<td>
+	<a href = "/shows/{{tv.show.id}}" class = "btn btn-success">Details</a>
+	</td>
+	</tr>
+	</form>
+	</div>

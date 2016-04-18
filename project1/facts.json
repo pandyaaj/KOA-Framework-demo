@@ -1,0 +1,536 @@
+[
+	[
+		{
+			"score": 2.0305264,
+			"show": {
+				"id": 139,
+				"url": "http://www.tvmaze.com/shows/139/girls",
+				"name": "Girls",
+				"type": "Scripted",
+				"language": "English",
+				"genres": [
+					"Drama",
+					"Romance"
+				],
+				"status": "Running",
+				"runtime": 30,
+				"premiered": "2012-04-15",
+				"schedule": {
+					"time": "22:00",
+					"days": [
+						"Sunday"
+					]
+				},
+				"rating": {
+					"average": 5.5
+				},
+				"weight": 3,
+				"network": {
+					"id": 8,
+					"name": "HBO",
+					"country": {
+						"name": "United States",
+						"code": "US",
+						"timezone": "America/New_York"
+					}
+				},
+				"webChannel": null,
+				"externals": {
+					"tvrage": 30124,
+					"thetvdb": 220411
+				},
+				"image": {
+					"medium": "http://tvmazecdn.com/uploads/images/medium_portrait/0/1953.jpg",
+					"original": "http://tvmazecdn.com/uploads/images/original_untouched/0/1953.jpg"
+				},
+				"summary": "<p>Created by and starring Lena Dunham, the Emmy(R)-winning series is a comic look at the assorted humiliations and rare triumphs of a group of girls in their 20s.</p>",
+				"updated": 1446202658,
+				"_links": {
+					"self": {
+						"href": "http://api.tvmaze.com/shows/139"
+					},
+					"previousepisode": {
+						"href": "http://api.tvmaze.com/episodes/131213"
+					},
+					"nextepisode": {
+						"href": "http://api.tvmaze.com/episodes/409239"
+					}
+				}
+			}
+		},
+		{
+			"score": 1.642916,
+			"show": {
+				"id": 2533,
+				"url": "http://www.tvmaze.com/shows/2533/fight-girls",
+				"name": "Fight Girls",
+				"type": "Reality",
+				"language": "English",
+				"genres": [],
+				"status": "Ended",
+				"runtime": 60,
+				"premiered": "2007-06-12",
+				"schedule": {
+					"time": "22:30",
+					"days": [
+						"Tuesday"
+					]
+				},
+				"rating": {
+					"average": null
+				},
+				"weight": 0,
+				"network": {
+					"id": 79,
+					"name": "Oxygen",
+					"country": {
+						"name": "United States",
+						"code": "US",
+						"timezone": "America/New_York"
+					}
+				},
+				"webChannel": null,
+				"externals": {
+					"tvrage": 16419,
+					"thetvdb": 80221
+				},
+				"image": {
+					"medium": "http://tvmazecdn.com/uploads/images/medium_portrait/13/34050.jpg",
+					"original": "http://tvmazecdn.com/uploads/images/original_untouched/13/34050.jpg"
+				},
+				"summary": "<p>Ten female fighters from the United States convene in Las Vegas for the chance to travel to Thailand to compete against the world's best in a Muay Thai championship fight. Muay Thai, or Thai Boxing, the national sport of Thailand, is considered by some to be the deadliest form of martial arts. The show captures the life both inside and outside the gym through six grueling weeks of training under the supervision of Master Toddy, culminating in the main event in Thailand. Who will be left standing in the ring?</p>",
+				"updated": 1437428944,
+				"_links": {
+					"self": {
+						"href": "http://api.tvmaze.com/shows/2533"
+					},
+					"previousepisode": {
+						"href": "http://api.tvmaze.com/episodes/190063"
+					}
+				}
+			}
+		},
+		{
+			"score": 1.2552669,
+			"show": {
+				"id": 7108,
+				"url": "http://www.tvmaze.com/shows/7108/mohawk-girls",
+				"name": "Mohawk Girls",
+				"type": "Scripted",
+				"language": "English",
+				"genres": [
+					"Drama",
+					"Comedy",
+					"Romance"
+				],
+				"status": "Running",
+				"runtime": 30,
+				"premiered": "2014-11-23",
+				"schedule": {
+					"time": "21:00",
+					"days": [
+						"Sunday"
+					]
+				},
+				"rating": {
+					"average": null
+				},
+				"weight": 0,
+				"network": {
+					"id": 480,
+					"name": "OMNI",
+					"country": {
+						"name": "Canada",
+						"code": "CA",
+						"timezone": "Canada/Atlantic"
+					}
+				},
+				"webChannel": null,
+				"externals": {
+					"tvrage": null,
+					"thetvdb": 288643
+				},
+				"image": {
+					"medium": "http://tvmazecdn.com/uploads/images/medium_portrait/26/66494.jpg",
+					"original": "http://tvmazecdn.com/uploads/images/original_untouched/26/66494.jpg"
+				},
+				"summary": "<p>Finding love is hard. Finding yourself is even harder. Especially when \nyour family, friends and everyone in town has an opinion. Mohawk Girls \nis a comedic look at the lives of four modern-day women trying to stay \ntrue to their roots while they navigate sex, work, sex, love, sex and \nthe occasional throw down.</p>",
+				"updated": 1446084660,
+				"_links": {
+					"self": {
+						"href": "http://api.tvmaze.com/shows/7108"
+					},
+					"previousepisode": {
+						"href": "http://api.tvmaze.com/episodes/408206"
+					}
+				}
+			}
+		},
+		{
+			"score": 1.254537,
+			"show": {
+				"id": 525,
+				"url": "http://www.tvmaze.com/shows/525/gilmore-girls",
+				"name": "Gilmore Girls",
+				"type": "Scripted",
+				"language": "English",
+				"genres": [
+					"Drama",
+					"Comedy",
+					"Romance"
+				],
+				"status": "In Development",
+				"runtime": 40,
+				"premiered": "2000-10-05",
+				"schedule": {
+					"time": "20:00",
+					"days": [
+						"Tuesday"
+					]
+				},
+				"rating": {
+					"average": 8.8
+				},
+				"weight": 3,
+				"network": null,
+				"webChannel": {
+					"id": 1,
+					"name": "Netflix",
+					"country": {
+						"name": "United States",
+						"code": "US",
+						"timezone": "America/New_York"
+					}
+				},
+				"externals": {
+					"tvrage": 3683,
+					"thetvdb": 76568
+				},
+				"image": {
+					"medium": "http://tvmazecdn.com/uploads/images/medium_portrait/4/11308.jpg",
+					"original": "http://tvmazecdn.com/uploads/images/original_untouched/4/11308.jpg"
+				},
+				"summary": "<p>A drama centering around the relationship between a thirtysomething single mother and her teen daughter living in Stars Hollow, Connecticut.</p>",
+				"updated": 1446119601,
+				"_links": {
+					"self": {
+						"href": "http://api.tvmaze.com/shows/525"
+					},
+					"previousepisode": {
+						"href": "http://api.tvmaze.com/episodes/47639"
+					}
+				}
+			}
+		},
+		{
+			"score": 1.2516145,
+			"show": {
+				"id": 8198,
+				"url": "http://www.tvmaze.com/shows/8198/transit-girls",
+				"name": "Transit Girls",
+				"type": "Scripted",
+				"language": "Japanese",
+				"genres": [],
+				"status": "Running",
+				"runtime": 25,
+				"premiered": "2015-11-07",
+				"schedule": {
+					"time": "23:40",
+					"days": [
+						"Saturday"
+					]
+				},
+				"rating": {
+					"average": null
+				},
+				"weight": 0,
+				"network": {
+					"id": 131,
+					"name": "Fuji TV",
+					"country": {
+						"name": "Japan",
+						"code": "JP",
+						"timezone": "Asia/Tokyo"
+					}
+				},
+				"webChannel": null,
+				"externals": {
+					"tvrage": null,
+					"thetvdb": 303061
+				},
+				"image": {
+					"medium": "http://tvmazecdn.com/uploads/images/medium_portrait/29/74245.jpg",
+					"original": "http://tvmazecdn.com/uploads/images/original_untouched/29/74245.jpg"
+				},
+				"summary": "<p>The story follows the relationship between the two girls, Sayuri and\n Yui, as they start to live together under one roof as step-sisters. \nDespite their initial distaste for each other and the fact that they \ncouldn't be more opposite in looks and personality, they eventually \nstart to develop feelings for each other... How will their romance take \nshape?</p>",
+				"updated": 1447413513,
+				"_links": {
+					"self": {
+						"href": "http://api.tvmaze.com/shows/8198"
+					},
+					"previousepisode": {
+						"href": "http://api.tvmaze.com/episodes/453829"
+					},
+					"nextepisode": {
+						"href": "http://api.tvmaze.com/episodes/453830"
+					}
+				}
+			}
+		},
+		{
+			"score": 1.2500988,
+			"show": {
+				"id": 7827,
+				"url": "http://www.tvmaze.com/shows/7827/land-girls",
+				"name": "Land Girls",
+				"type": "Scripted",
+				"language": "English",
+				"genres": [],
+				"status": "Ended",
+				"runtime": 60,
+				"premiered": "2009-09-07",
+				"schedule": {
+					"time": "",
+					"days": []
+				},
+				"rating": {
+					"average": null
+				},
+				"weight": 0,
+				"network": {
+					"id": 12,
+					"name": "BBC One",
+					"country": {
+						"name": "United Kingdom",
+						"code": "GB",
+						"timezone": "Europe/London"
+					}
+				},
+				"webChannel": null,
+				"externals": {
+					"tvrage": null,
+					"thetvdb": 112871
+				},
+				"image": {
+					"medium": "http://tvmazecdn.com/uploads/images/medium_portrait/28/71862.jpg",
+					"original": "http://tvmazecdn.com/uploads/images/original_untouched/28/71862.jpg"
+				},
+				"summary": "<p>Follow the lives, loves and highs and lows of four members of the Women's Land Army who are working at the Hoxley Estate during World War II.</p><p><i><strong>Land Girls</strong></i> is a British television period drama series, first broadcast on BBC One on 7 September 2009. <i>Land Girls</i> was created by Roland Moore and commissioned by the BBC to commemorate the 70th anniversary of the outbreak of World War II. The programme was BBC Daytime's first commission of a period drama. <i>Land Girls</i> was filmed in and around the city of Birmingham. The first series features Summer Strallen, Christine Bottomley, Jo Woodcock and Becci Gemmell as four different girls doing their bit for Britain in theWomen's Land Army during the War.</p><p><i>Land Girls</i> won the \"Best Daytime Programme\" at the 2010 Broadcast Awards and in that same year the BBC announced that it had commissioned a second series, comprising five episodes. Woodcock and Gemmell reprised their roles as Bea and Joyce and Seline Hizlimade her debut as new girl, Connie Carter. The second series began airing from 17 January 2011 and two months later BBC Daytime Controller, Liam Keelan, renewed <i>Land Girls</i> for a third series. It began airing from 7 November 2011.</p>",
+				"updated": 1446993938,
+				"_links": {
+					"self": {
+						"href": "http://api.tvmaze.com/shows/7827"
+					},
+					"previousepisode": {
+						"href": "http://api.tvmaze.com/episodes/437708"
+					}
+				}
+			}
+		},
+		{
+			"score": 1.2464885,
+			"show": {
+				"id": 1591,
+				"url": "http://www.tvmaze.com/shows/1591/funny-girls",
+				"name": "Funny Girls",
+				"type": "Reality",
+				"language": "English",
+				"genres": [],
+				"status": "Running",
+				"runtime": 60,
+				"premiered": "2015-04-07",
+				"schedule": {
+					"time": "21:00",
+					"days": []
+				},
+				"rating": {
+					"average": null
+				},
+				"weight": 0,
+				"network": {
+					"id": 79,
+					"name": "Oxygen",
+					"country": {
+						"name": "United States",
+						"code": "US",
+						"timezone": "America/New_York"
+					}
+				},
+				"webChannel": null,
+				"externals": {
+					"tvrage": 33049,
+					"thetvdb": 294185
+				},
+				"image": {
+					"medium": "http://tvmazecdn.com/uploads/images/medium_portrait/12/31653.jpg",
+					"original": "http://tvmazecdn.com/uploads/images/original_untouched/12/31653.jpg"
+				},
+				"summary": "<p>The series follows the professional and personal lives of six female comics in Los Angeles who are climbing their way to the top of the stand-up ladder. While the comediennes differ in their levels of experience, styles of comedy and ultimate career goals, they share the ambition - and the passion - needed to make it in the City of Dreams. From working multiple jobs, to clashing with parents' expectations, to yet another bad date, the comics provide a fresh, witty perspective on experiences to which young millennial women can relate.</p>",
+				"updated": 1435596645,
+				"_links": {
+					"self": {
+						"href": "http://api.tvmaze.com/shows/1591"
+					},
+					"previousepisode": {
+						"href": "http://api.tvmaze.com/episodes/157051"
+					}
+				}
+			}
+		},
+		{
+			"score": 1.2464885,
+			"show": {
+				"id": 722,
+				"url": "http://www.tvmaze.com/shows/722/the-golden-girls",
+				"name": "The Golden Girls",
+				"type": "Scripted",
+				"language": "English",
+				"genres": [
+					"Drama",
+					"Comedy"
+				],
+				"status": "Ended",
+				"runtime": 30,
+				"premiered": "1985-09-14",
+				"schedule": {
+					"time": "",
+					"days": []
+				},
+				"rating": {
+					"average": 8.3
+				},
+				"weight": 0,
+				"network": {
+					"id": 1,
+					"name": "NBC",
+					"country": {
+						"name": "United States",
+						"code": "US",
+						"timezone": "America/New_York"
+					}
+				},
+				"webChannel": null,
+				"externals": {
+					"tvrage": 5820,
+					"thetvdb": 71292
+				},
+				"image": {
+					"medium": "http://tvmazecdn.com/uploads/images/medium_portrait/6/15097.jpg",
+					"original": "http://tvmazecdn.com/uploads/images/original_untouched/6/15097.jpg"
+				},
+				"summary": "<p>An Emmy Award winner for Outstanding Comedy Series in its very first year, THE GOLDEN GIRLS has become a landmark in television history and an all-time fan favorite. Beatrice Arthur, Rue McClanahan, Betty White, and Estelle Getty star as four South Florida seniors sharing a house, their dreams, and a whole lot of cheesecake. Bright, promiscuous, clueless, and hilarious, these lovely mismatched ladies form the perfect circle of friends.</p>",
+				"updated": 1447224562,
+				"_links": {
+					"self": {
+						"href": "http://api.tvmaze.com/shows/722"
+					},
+					"previousepisode": {
+						"href": "http://api.tvmaze.com/episodes/64040"
+					}
+				}
+			}
+		},
+		{
+			"score": 1.245755,
+			"show": {
+				"id": 7349,
+				"url": "http://www.tvmaze.com/shows/7349/gotham-girls",
+				"name": "Gotham Girls",
+				"type": "Animation",
+				"language": "English",
+				"genres": [],
+				"status": "Ended",
+				"runtime": 30,
+				"premiered": "2000-07-27",
+				"schedule": {
+					"time": "",
+					"days": []
+				},
+				"rating": {
+					"average": null
+				},
+				"weight": 0,
+				"network": {
+					"id": 71,
+					"name": "The WB",
+					"country": {
+						"name": "United States",
+						"code": "US",
+						"timezone": "America/New_York"
+					}
+				},
+				"webChannel": null,
+				"externals": {
+					"tvrage": null,
+					"thetvdb": 79390
+				},
+				"image": {
+					"medium": "http://tvmazecdn.com/uploads/images/medium_portrait/27/67814.jpg",
+					"original": "http://tvmazecdn.com/uploads/images/original_untouched/27/67814.jpg"
+				},
+				"summary": "",
+				"updated": 1446334360,
+				"_links": {
+					"self": {
+						"href": "http://api.tvmaze.com/shows/7349"
+					},
+					"previousepisode": {
+						"href": "http://api.tvmaze.com/episodes/417516"
+					}
+				}
+			}
+		},
+		{
+			"score": 1.245755,
+			"show": {
+				"id": 3950,
+				"url": "http://www.tvmaze.com/shows/3950/mystery-girls",
+				"name": "Mystery Girls",
+				"type": "Scripted",
+				"language": "English",
+				"genres": [],
+				"status": "Ended",
+				"runtime": 30,
+				"premiered": "2014-06-25",
+				"schedule": {
+					"time": "20:30",
+					"days": [
+						"Wednesday"
+					]
+				},
+				"rating": {
+					"average": 2
+				},
+				"weight": 0,
+				"network": {
+					"id": 26,
+					"name": "ABC Family",
+					"country": {
+						"name": "United States",
+						"code": "US",
+						"timezone": "America/New_York"
+					}
+				},
+				"webChannel": null,
+				"externals": {
+					"tvrage": 35629,
+					"thetvdb": 277020
+				},
+				"image": {
+					"medium": "http://tvmazecdn.com/uploads/images/medium_portrait/19/49049.jpg",
+					"original": "http://tvmazecdn.com/uploads/images/original_untouched/19/49049.jpg"
+				},
+				"summary": "<p>Two former detective TV show starlets brought back together by a real-life mystery. Charlie Contour (Garth) is a suburban housewife and mother, while Holly Hamilton (Spelling) longs for her glory days in the 90's when she was on television. Both of their lives are disrupted when Nick (Pinzon), a witness to a crime and a ‘Mystery Girls' fanatic, will only speak to the infamous duo, and the former friends must reunite and put their TV crime-solving skills to the test.</p>",
+				"updated": 1442762816,
+				"_links": {
+					"self": {
+						"href": "http://api.tvmaze.com/shows/3950"
+					},
+					"previousepisode": {
+						"href": "http://api.tvmaze.com/episodes/253174"
+					}
+				}
+			}
+		}
+	]
+]
